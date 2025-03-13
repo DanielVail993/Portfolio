@@ -6,7 +6,7 @@ Aspiring Data Analyst
 
 After completing my computer science A-Level I have been researching and learning about the IT field to find where I wanted to go. I have completed an networking course and more recently a data skills bootcamp and decided that I really enjoyed the bootcamp and want to continue my career into the data skills world.
 
-*  ![image](https://github.com/user-attachments/assets/4b945c09-4016-4285-95af-ba84fe3bc7d8)  My portfolio website: (https://sites.google.com/view/daniel-vail/home)
+*  ![image](https://github.com/user-attachments/assets/4b945c09-4016-4285-95af-ba84fe3bc7d8)  My portfolio website: https://sites.google.com/view/daniel-vail/home
 * 🌍  I'm based in Birmingham
 * ✉️  You can contact me at [danjvail05@gmail.com](mailto:danjvail05@gmail.com)
 * 🧠  I'm learning more about Tableau, Power BI, SQL and Python
